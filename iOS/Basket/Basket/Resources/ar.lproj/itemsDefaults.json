@@ -1,0 +1,58 @@
+[
+	{
+		"name": "طماطم",
+		"imageName": "vegetable",
+		"price": {
+			"amount": 0.95,
+			"unitKey": "bag"
+		}
+	},
+	{
+		"name": "بيض",
+		"imageName": "eggs",
+		"price": {
+			"amount": 2.1,
+			"unitKey": "dozen"
+		}
+	},
+	{
+		"name": "حليب",
+		"imageName": "milk",
+		"price": {
+			"amount": 1.3,
+			"unitKey": "bottle"
+		}
+	},
+	{
+		"name": "فاصوليا",
+		"imageName": "can",
+		"price": {
+			"amount": 0.73,
+			"unitKey": "can"
+		}
+	},
+	{
+		"name": "دجاج",
+		"imageName": "chicken",
+		"price": {
+			"amount": 3.73,
+			"unitKey": "item"
+		}
+	},
+	{
+		"name": "مثلجات",
+		"imageName": "icecream",
+		"price": {
+			"amount": 2.3,
+			"unitKey": "item"
+		}
+	},
+	{
+		"name": "ساندويتش",
+		"imageName": "sandwich",
+		"price": {
+			"amount": 5,
+			"unitKey": "item"
+		}
+	}
+]

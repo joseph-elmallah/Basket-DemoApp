@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Tomattes",
+		"imageName": "vegetable",
+		"price": {
+			"amount": 0.95,
+			"unitKey": "bag"
+		}
+	},
+	{
+		"name": "Oeufs",
+		"imageName": "eggs",
+		"price": {
+			"amount": 2.1,
+			"unitKey": "dozen"
+		}
+	},
+	{
+		"name": "Lait",
+		"imageName": "milk",
+		"price": {
+			"amount": 1.3,
+			"unitKey": "bottle"
+		}
+	},
+	{
+		"name": "Poits",
+		"imageName": "can",
+		"price": {
+			"amount": 0.73,
+			"unitKey": "can"
+		}
+	},
+	{
+		"name": "Poulet",
+		"imageName": "chicken",
+		"price": {
+			"amount": 3.73,
+			"unitKey": "item"
+		}
+	},
+	{
+		"name": "Glace",
+		"imageName": "icecream",
+		"price": {
+			"amount": 2.3,
+			"unitKey": "item"
+		}
+	},
+	{
+		"name": "Sandwich",
+		"imageName": "sandwich",
+		"price": {
+			"amount": 5,
+			"unitKey": "item"
+		}
+	}
+]

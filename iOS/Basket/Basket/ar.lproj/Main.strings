@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Tomatoes"; ObjectID = "0TA-QD-c0f"; */
+"0TA-QD-c0f.text" = "Tomatoes";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "ASN-36-ZuF"; */
+"ASN-36-ZuF.title" = "Item";
+
+/* Class = "UILabel"; text = "USD 23"; ObjectID = "Cxa-QI-eDt"; */
+"Cxa-QI-eDt.text" = "USD 23";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DjI-Kw-C0d"; */
+"DjI-Kw-C0d.text" = "Label";
+
+/* Class = "UILabel"; text = "USD 2.3 / Bag"; ObjectID = "EJx-1P-Epr"; */
+"EJx-1P-Epr.text" = "USD 2.3 / Bag";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "F8f-Wr-eAM"; */
+"F8f-Wr-eAM.text" = "Label";
+
+/* Class = "UIViewController"; title = "Detail"; ObjectID = "JEX-9P-axG"; */
+"JEX-9P-axG.title" = "Detail";
+
+/* Class = "UINavigationController"; title = "Master"; ObjectID = "RMx-3f-FxP"; */
+"RMx-3f-FxP.title" = "Master";
+
+/* Class = "UILabel"; text = "USD 2.3 / Bag"; ObjectID = "T1k-fZ-kaL"; */
+"T1k-fZ-kaL.text" = "USD 2.3 / Bag";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "eGV-QZ-pkP"; */
+"eGV-QZ-pkP.title" = "Item";
+
+/* Class = "UILabel"; text = "Tomatoes"; ObjectID = "gVI-Fp-Hm1"; */
+"gVI-Fp-Hm1.text" = "Tomatoes";
+
+/* Class = "UILabel"; text = "10 Items"; ObjectID = "hfG-jr-QgO"; */
+"hfG-jr-QgO.text" = "10 Items";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hna-p3-EVy"; */
+"hna-p3-EVy.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jtQ-Wu-C4s"; */
+"jtQ-Wu-C4s.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Detail"; ObjectID = "mOI-FS-AaM"; */
+"mOI-FS-AaM.title" = "Detail";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nOq-d7-kaB"; */
+"nOq-d7-kaB.text" = "Label";

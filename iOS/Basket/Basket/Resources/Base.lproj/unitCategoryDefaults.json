@@ -1,0 +1,22 @@
+{
+	"bag": {
+		"title": "Bag",
+		"divisible": false
+	},
+	"dozen": {
+		"title": "Dozen",
+		"divisible": true
+	},
+	"bottle": {
+		"title": "Bottle",
+		"divisible": false
+	},
+	"can": {
+		"title": "Can",
+		"divisible": false
+	},
+	"item": {
+		"title": "Item",
+		"divisible": false
+	}
+}

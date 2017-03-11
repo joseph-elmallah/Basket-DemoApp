@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Tomatoes",
+		"imageName": "vegetable",
+		"price": {
+			"amount": 0.95,
+			"unitKey": "bag"
+		}
+	},
+	{
+		"name": "Eggs",
+		"imageName": "eggs",
+		"price": {
+			"amount": 2.1,
+			"unitKey": "dozen"
+		}
+	},
+	{
+		"name": "Milk",
+		"imageName": "milk",
+		"price": {
+			"amount": 1.3,
+			"unitKey": "bottle"
+		}
+	},
+	{
+		"name": "Beans",
+		"imageName": "can",
+		"price": {
+			"amount": 0.73,
+			"unitKey": "can"
+		}
+	},
+	{
+		"name": "Chicken",
+		"imageName": "chicken",
+		"price": {
+			"amount": 3.73,
+			"unitKey": "item"
+		}
+	},
+	{
+		"name": "Ice Cream",
+		"imageName": "icecream",
+		"price": {
+			"amount": 2.3,
+			"unitKey": "item"
+		}
+	},
+	{
+		"name": "Sandwich",
+		"imageName": "sandwich",
+		"price": {
+			"amount": 5,
+			"unitKey": "item"
+		}
+	}
+]

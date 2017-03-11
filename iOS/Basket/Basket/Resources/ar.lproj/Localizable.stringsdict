@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%d items</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@variable_0@</string>
+		<key>variable_0</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>فارغة</string>
+			<key>one</key>
+			<string>شيء واحد</string>
+			<key>other</key>
+			<string>عناصر %d</string>
+		</dict>
+	</dict>
+	<key>%g selected</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@variable_0@</string>
+		<key>variable_0</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>g</string>
+			<key>صفر</key>
+			<string>Noting selected</string>
+			<key>one</key>
+			<string>واحدة مختارة</string>
+			<key>other</key>
+			<string>مختار %g</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
